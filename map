@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kim Pham",
+        "Twitter": "tolloid",
+        "Github": "kimpham54",
+        "Affilitation": "University of Toronto Scarborough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.18632835149765,
+          43.78419322376774
+        ]
+      }
+    }
+  ]
+}
