@@ -7,7 +7,7 @@
         "Name": "Kim Pham",
         "Twitter": "tolloid",
         "Github": "kimpham54",
-        "Affilitation": "University of Toronto Scarborough"
+        "Affiliation": "University of Toronto Scarborough"
       },
       "geometry": {
         "type": "Point",
@@ -23,8 +23,7 @@
         "Name": "Kaitlin Newson",
         "Twitter": "kaitlinnewson",
         "Github": "kaitlinnewson",
-        "Affilitation": "Scholars Portal",
-        "marker-color": "#bc4242"
+        "Affiliation": "Scholars Portal",
       },
       "geometry": {
         "type": "Point",
