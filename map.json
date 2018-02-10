@@ -23,7 +23,8 @@
         "Name": "Kaitlin Newson",
         "Twitter": "kaitlinnewson",
         "Github": "kaitlinnewson",
-        "Affilitation": "Scholars Portal"
+        "Affilitation": "Scholars Portal",
+        "marker-color": "#bc4242"
       },
       "geometry": {
         "type": "Point",
