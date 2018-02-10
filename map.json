@@ -16,6 +16,22 @@
           43.78419322376774
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kaitlin Newson",
+        "Twitter": "kaitlinnewson",
+        "Github": "kaitlinnewson",
+        "Affilitation": "Scholars Portal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39947009086609,
+          43.664482006320775
+        ]
+      }
     }
   ]
 }
