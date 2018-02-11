@@ -1,14 +1,15 @@
 # code4lib-map
 
-This is the start of the code4lib map, inspired by the [crtilib map](https://www.google.com/maps/d/u/0/viewer?mid=15ASavNCIktR-ZaXHYEVOBNgKDJg&ll=34.05038383405213%2C-26.443405158593805&z=2).
+This is the start of the code4lib map, inspired by the [critlib map](https://www.google.com/maps/d/u/0/viewer?mid=15ASavNCIktR-ZaXHYEVOBNgKDJg&ll=34.05038383405213%2C-26.443405158593805&z=2).
 
 
 Add yourself to this map!
 
 option 1
 
+* fork the repo
 * Just edit the json file directly! You can add any additional attributes that you like.
-
+* create a pull request back to origin code4lib-map
 
 option 2
 
