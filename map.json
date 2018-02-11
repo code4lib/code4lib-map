@@ -38,7 +38,7 @@
       "properties": {
         "Name": "John Daniel",
         "Twitter": "<a href=\"https://twitter.com/etresoft\">etresoft</a>",
-        "Github": "<a href=\"https://github.com/etresoft\"><img  src=\"https://avatars3.githubusercontent.com/u/852223?s=40&amp;v=4\" height=\"20\" width=\"20\">etresoft</a>",
+        "Github": "<a href=\"https://github.com/etresoft\"><img  src=\"https://github.com/etresoft/code4lib-map/images/etresoft.png\" height=\"20\" width=\"20\">etresoft</a>",
         "Affiliation": "<a href=\"https://etresoft.com\">Etresoft, Inc.</a>"
       },
       "geometry": {
