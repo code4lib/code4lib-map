@@ -32,6 +32,23 @@
           43.664482006320775
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "library",
+        "Name": "code4libtoronto",
+        "Website": "meetup.com/code4libtoronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38780784606932,
+          43.65439743400846
+        ]
+      }
     }
   ]
 }
