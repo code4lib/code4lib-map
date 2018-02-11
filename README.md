@@ -7,15 +7,22 @@ Add yourself to this map!
 
 option 1
 
-Just edit the json file directly! You can add any additional attributes that you like.
+* Just edit the json file directly! You can add any additional attributes that you like.
 
 
 option 2
 
-fork the repo
-go to geojson.io
-open from github your forked repo of code4lib-map, authorize your organization
-find your location add a point
-go to table view, fill in data in the new row
-save it directly from geojson.io to your forked code4lib-map github repo
-create a pull request back to origin code4lib-map
+* fork the repo
+* go to geojson.io
+* open from github your forked repo of code4lib-map, authorize your organization
+* find your location add a point
+* go to table view, fill in data in the new row
+* save it directly from geojson.io to your forked code4lib-map github repo
+* create a pull request back to origin code4lib-map
+
+
+Here are some more things you can do with this map:
+
+- GeoJSON on Github https://help.github.com/articles/mapping-geojson-files-on-github/
+- Check out the simplespec: https://github.com/mapbox/simplestyle-spec
+
