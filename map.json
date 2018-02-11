@@ -36,6 +36,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "John Daniel",
+        "Twitter": "etresoft",
+        "Github": "etresoft",
+        "Affiliation": "Etresoft, Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8634,
+          43.8978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
         "marker-symbol": "library",

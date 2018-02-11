@@ -8,6 +8,7 @@ Add yourself to this map!
 option 1
 
 * Just edit the json file directly! You can add any additional attributes that you like.
+* Remember your privacy! Make sure your location is a public building or otherwise not personally accurate.
 
 
 option 2
