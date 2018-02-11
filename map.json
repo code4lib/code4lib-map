@@ -39,7 +39,7 @@
         "Name": "John Daniel",
         "Twitter": "etresoft",
         "Github": "etresoft",
-        "Affiliation": "Etresoft, Inc."
+        "Affiliation": "<a href=\"https://etresoft.com\" target=\"_blank\">Etresoft, Inc.</a>"
       },
       "geometry": {
         "type": "Point",
