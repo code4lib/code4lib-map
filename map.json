@@ -36,6 +36,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "<img  src=\"https://github.com/etresoft/code4lib-map/raw/master/images/etresoft.png\" height=\"20\" width=\"20\"> John Daniel",
+        "Twitter": "<a href=\"https://twitter.com/etresoft\">etresoft</a>",
+        "Github": "<a href=\"https://github.com/etresoft\">etresoft</a>",
+        "Affiliation": "<a href=\"https://etresoft.com\">Etresoft, Inc.</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8632,
+          43.9311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
         "marker-symbol": "library",
