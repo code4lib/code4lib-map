@@ -52,6 +52,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Michael Morris-Pearce",
+        "Github": "michaelmp",
+        "Affiliation": "California Digital Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.267295,
+          37.808628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Eric Phetteplace",
         "Twitter": "phette23",
         "Github": "phette23",
