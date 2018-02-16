@@ -99,6 +99,23 @@
           43.65439743400846
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "<img  src=\"https://github.com/code4lib/code4lib-map/raw/master/images/escowles.png\" height=\"20\" width=\"20\"> Esmé Cowles",
+        "Twitter": "<a href=\"https://twitter.com/escowles\">escowles</a>",
+        "Github": "<a href=\"https://github.com/escowles\">escowles</a>",
+        "Affiliation": "<a href=\"https://library.princeton.edu\">Princeton University Library</a>",
+        "Location": "Rockville, Maryland, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15286254882812,
+          39.08407161839716
+        ]
+      }
     }
   ]
 }
