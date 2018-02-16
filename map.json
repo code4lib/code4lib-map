@@ -20,6 +20,20 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Chuck McAndrew",
+        "Github": "dcmcand",
+        "Affiliation": "Lebanon Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.31431829999997,
+          43.6395291        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Kaitlin Newson",
         "Twitter": "kaitlinnewson",
         "Github": "kaitlinnewson",
