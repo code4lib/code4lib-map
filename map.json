@@ -181,6 +181,22 @@
           35.31323
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dazhi Jiao",
+        "Github": "<a href=\"https://github.com/jiaola\">jiaola</a>",
+        "Affiliation": "<a href=\"https://www.library.jhu.edu/\">Johns Hopkins University</a>",
+        "Location": "Baltimore, Maryland USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.619366,
+          39.329244
+        ]
+      }
     }
   ]
 }
