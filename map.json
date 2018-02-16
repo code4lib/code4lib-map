@@ -164,6 +164,23 @@
           36.8479894749098
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Joel Marchesoni",
+        "Twitter": "<a href=\"https://twitter.com/jmarchesoni\">jmarchesoni</a>",
+        "Github": "<a href=\"https://github.com/jmarchesoni\">jmarchesoni</a>",
+        "Affiliation": "a href=\"https://www.wcu.edu/hunter-library/\">Hunter Library at Western Carolina University</a>",
+        "Location": "Cullowhee, North Carolina, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17974,
+          35.31323
+        ]
+      }
     }
   ]
 }
