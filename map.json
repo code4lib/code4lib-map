@@ -20,6 +20,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Kate Barron",
+        "Twitter": "sugardog4",
+        "Github": "katebar",
+        "Affiliation": "San Jose State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.88496,
+          37.33545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Kaitlin Newson",
         "Twitter": "kaitlinnewson",
         "Github": "kaitlinnewson",
@@ -30,6 +46,22 @@
         "coordinates": [
           -79.39947009086609,
           43.664482006320775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eric Phetteplace",
+        "Twitter": "phette23",
+        "Github": "phette23",
+        "Affiliation": "California College of the Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.250573,
+          37.835422
         ]
       }
     },
@@ -74,14 +106,31 @@
         "Github": "AustinTSchaffer",
         "Affiliation": "Atlas Systems, Inc.",
         "marker-color": "#dc590e",
-        "Instagram": "schaffer_austin_t"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.48799657821655,
-          37.08496773799787
-        ]
+        "Instagram": "schaffer_austin_t",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.48799657821655,
+            37.08496773799787
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "<img  src=\"https://github.com/code4lib/code4lib-map/raw/master/images/escowles.png\" height=\"20\" width=\"20\"> Esmé Cowles",
+        "Twitter": "<a href=\"https://twitter.com/escowles\">escowles</a>",
+        "Github": "<a href=\"https://github.com/escowles\">escowles</a>",
+        "Affiliation": "<a href=\"https://library.princeton.edu\">Princeton University Library</a>",
+        "Location": "Rockville, Maryland, USA",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.15286254882812,
+            39.08407161839716
+          ]
+        }
       }
     },
     {
