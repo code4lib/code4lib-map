@@ -6,13 +6,13 @@ This is the start of the code4lib map, inspired by the [critlib map](https://www
 
 Add yourself to this map!
 
-option 1
+### Option 1
 
 * Just edit the json file directly! The repo will automatically be forked! You can add any additional attributes that you like.
 * create a pull request back to origin code4lib-map
 * Remember your privacy! Make sure your location is a public building or otherwise not personally accurate.
 
-option 2
+### Option 2
 
 * fork the repo
 * go to geojson.io
@@ -22,6 +22,9 @@ option 2
 * save it directly from geojson.io to your forked code4lib-map github repo
 * create a pull request back to origin code4lib-map
 
+### Option 3
+
+* Create a github issues with your name, institution (if applicable), geocoordinates, and social media links you want included on the map (github/twitter/etc).
 
 ## Styling Conventions (optional)
 
