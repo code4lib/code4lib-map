@@ -123,7 +123,7 @@
         "Twitter": "<a href=\"https://twitter.com/escowles\">escowles</a>",
         "Github": "<a href=\"https://github.com/escowles\">escowles</a>",
         "Affiliation": "<a href=\"https://library.princeton.edu\">Princeton University Library</a>",
-        "Location": "Rockville, Maryland, USA",
+        "Location": "Rockville, Maryland, USA"
     },
         "geometry": {
           "type": "Point",
