@@ -106,7 +106,8 @@
         "Github": "AustinTSchaffer",
         "Affiliation": "Atlas Systems, Inc.",
         "marker-color": "#dc590e",
-        "Instagram": "schaffer_austin_t",
+        "Instagram": "schaffer_austin_t"
+      },
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -124,6 +125,7 @@
         "Github": "<a href=\"https://github.com/escowles\">escowles</a>",
         "Affiliation": "<a href=\"https://library.princeton.edu\">Princeton University Library</a>",
         "Location": "Rockville, Maryland, USA",
+    },
         "geometry": {
           "type": "Point",
           "coordinates": [
