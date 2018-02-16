@@ -47,3 +47,10 @@ You may add information regarding yourself or your institution, but should not a
 
 Please also be aware that the history of changes to the data file is retained indefinitely and that there may be limited tools available for removing unwanted entries in a permanent fashion.
 
+## Troubleshooting
+
+**My coordinates are off!**
+
+Did you get your coordinates from Google Maps or OpenStreetMap? This map is going by OpenStreetMap data, so if you used Google Maps to get your coordinates, the lat/long might be off. Fix: Go to OpenStreetMap to get your coordinates.
+
+
