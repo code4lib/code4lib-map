@@ -65,6 +65,43 @@
           43.65439743400846
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austin Schaffer",
+        "Twitter": "AustinTSchaffer",
+        "Github": "AustinTSchaffer",
+        "Affiliation": "Atlas Systems, Inc.",
+        "marker-color": "#dc590e",
+        "Instagram": "schaffer_austin_t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48799657821655,
+          37.08496773799787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Matt Calsada",
+        "Twitter": "mcal",
+        "Github": "mcalsada",
+        "Affiliation": "Atlas Systems, Inc.",
+        "marker-color": "#ca1sad",
+        "Instagram": "mcalsada",
+        "Website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1767852306366,
+          36.8479894749098
+        ]
+      }
     }
   ]
 }
