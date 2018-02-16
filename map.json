@@ -119,7 +119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "<img  src=\"https://github.com/code4lib/code4lib-map/raw/master/images/escowles.png\" height=\"20\" width=\"20\"> Esmé Cowles",
+        "Name": "<img src=\"https://github.com/code4lib/code4lib-map/raw/master/images/escowles.png\" height=\"20\" width=\"20\"> Esmé Cowles",
         "Twitter": "<a href=\"https://twitter.com/escowles\">escowles</a>",
         "Github": "<a href=\"https://github.com/escowles\">escowles</a>",
         "Affiliation": "<a href=\"https://library.princeton.edu\">Princeton University Library</a>",
@@ -142,7 +142,6 @@
         "Affiliation": "Atlas Systems, Inc.",
         "marker-color": "#ca1sad",
         "Instagram": "mcalsada",
-        "Website": ""
       },
       "geometry": {
         "type": "Point",
