@@ -36,3 +36,9 @@ Here are some more things you can do with this map:
 - Embed the map using ```<script src="https://embed.github.com/view/geojson/code4libtoronto/code4lib-map/master/map.json?height=500&width=1000"></script>```
 - Check out the simplespec: https://github.com/mapbox/simplestyle-spec
 
+## Privacy
+
+You may add information regarding yourself or your institution, but should not add information regarding other people without their express permission.
+
+Please also be aware that the history of changes to the data file is retained indefinitely and that there may be limited tools available for removing unwanted entries in a permanent fashion.
+
