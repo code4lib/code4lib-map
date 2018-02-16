@@ -17,8 +17,7 @@
         ]
       }
     },
-    
-        {
+    {
       "type": "Feature",
       "properties": {
         "Name": "Kate Barron",
@@ -34,7 +33,6 @@
         ]
       }
     },
-    
     {
       "type": "Feature",
       "properties": {
@@ -103,17 +101,54 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Austin Schaffer",
+        "Twitter": "AustinTSchaffer",
+        "Github": "AustinTSchaffer",
+        "Affiliation": "Atlas Systems, Inc.",
+        "marker-color": "#dc590e",
+        "Instagram": "schaffer_austin_t",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.48799657821655,
+            37.08496773799787
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "<img  src=\"https://github.com/code4lib/code4lib-map/raw/master/images/escowles.png\" height=\"20\" width=\"20\"> Esmé Cowles",
         "Twitter": "<a href=\"https://twitter.com/escowles\">escowles</a>",
         "Github": "<a href=\"https://github.com/escowles\">escowles</a>",
         "Affiliation": "<a href=\"https://library.princeton.edu\">Princeton University Library</a>",
-        "Location": "Rockville, Maryland, USA"
+        "Location": "Rockville, Maryland, USA",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.15286254882812,
+            39.08407161839716
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Matt Calsada",
+        "Twitter": "mcal",
+        "Github": "mcalsada",
+        "Affiliation": "Atlas Systems, Inc.",
+        "marker-color": "#ca1sad",
+        "Instagram": "mcalsada",
+        "Website": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.15286254882812,
-          39.08407161839716
+          -76.1767852306366,
+          36.8479894749098
         ]
       }
     }
