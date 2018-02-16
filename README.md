@@ -2,6 +2,8 @@
 
 This is the start of the code4lib map, inspired by the [critlib map](https://www.google.com/maps/d/u/0/viewer?mid=15ASavNCIktR-ZaXHYEVOBNgKDJg&ll=34.05038383405213%2C-26.443405158593805&z=2).
 
+[To view the map, open the map.json file.](https://github.com/code4lib/code4lib-map/blob/master/map.json)
+
 ## Getting Started
 
 Add yourself to this map!
@@ -9,18 +11,18 @@ Add yourself to this map!
 ### Option 1
 
 * Just edit the json file directly! The repo will automatically be forked! You can add any additional attributes that you like.
-* create a pull request back to origin code4lib-map
+* Create a pull request back to origin code4lib-map
 * Remember your privacy! Make sure your location is a public building or otherwise not personally accurate.
 
 ### Option 2
 
-* fork the repo
-* go to geojson.io
-* open from github your forked repo of code4lib-map, authorize your organization
-* find your location add a point
-* go to table view, fill in data in the new row
-* save it directly from geojson.io to your forked code4lib-map github repo
-* create a pull request back to origin code4lib-map
+* Fork the repo
+* Go to [geojson.io](http://geojson.io/)
+* Open from github your forked repo of code4lib-map, authorize your organization
+* Find your location add a point
+* Go to table view, fill in data in the new row
+* Save it directly from geojson.io to your forked code4lib-map github repo
+* Create a pull request back to origin code4lib-map
 
 ### Option 3
 
