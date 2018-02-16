@@ -17,6 +17,24 @@
         ]
       }
     },
+    
+        {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kate Barron",
+        "Twitter": "sugardog4",
+        "Github": "katebar",
+        "Affiliation": "San Jose State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.33545,
+          121.88496
+        ]
+      }
+    },
+    
     {
       "type": "Feature",
       "properties": {
