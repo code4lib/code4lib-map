@@ -197,6 +197,24 @@
           39.329244
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stephen Schor",
+        "Twitter": "<a href=\"https://twitter.com/arewenotmen\">arewenotmen</a>",
+        "Github": "<a href=\"https://github.com/nodanaonlyzuul\">nodanaonlyzuul</a>",
+        "Website": "<a href=\"http://stephenschor.com\">stephenschor.com</a>",
+        "Affiliation": "<a href=\"https://www.nypl.org\">New York Public Library</a>",
+        "Location": "New York, New York, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98189,
+          40.75328
+        ]
+      }
     }
   ]
 }
