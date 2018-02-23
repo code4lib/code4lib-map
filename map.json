@@ -37,8 +37,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Kaitlin Newson",
-        "Twitter": "kaitlinnewson",
-        "Github": "kaitlinnewson",
+        "Twitter": "<a href=\"https://twitter.com/kaitlinnewson\">kaitlinnewson</a>",
+        "Github": "<a href=\"https://github.com/kaitlinnewson\">kaitlinnewson</a>",
         "Affiliation": "Scholars Portal"
       },
       "geometry": {
