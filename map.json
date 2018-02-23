@@ -103,7 +103,7 @@
         "marker-size": "large",
         "marker-symbol": "library",
         "Name": "code4libtoronto",
-        "Website": "meetup.com/code4libtoronto"
+        "Website": "<a href=\"https://www.meetup.com/code4libtoronto\">meetup.com/code4libtoronto</a>"
       },
       "geometry": {
         "type": "Point",
