@@ -229,6 +229,22 @@
           40.75328
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MJ Suhonos",
+        "Github": "<a href=\"https://github.com/mjsuhonos\">mjsuhonos</a>",
+        "Affiliation": "<a href=\"https://library.ryerson.ca\">Ryerson University Library & Archives</a>",
+        "Location": "Toronto, Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38049,
+          43.65784
+        ]
+      }
     }
   ]
 }
