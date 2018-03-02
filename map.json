@@ -36,6 +36,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Kate Deibel",
+        "Twitter": "metageeky",
+        "Github": "metageeky",
+        "Affiliation": "Syracuse University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1321609, 
+          43.0401521
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Kaitlin Newson",
         "Twitter": "<a href=\"https://twitter.com/kaitlinnewson\">kaitlinnewson</a>",
         "Github": "<a href=\"https://github.com/kaitlinnewson\">kaitlinnewson</a>",
