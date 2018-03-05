@@ -261,6 +261,22 @@
           43.65784
         ]
       }
+    }.
+    {
+      "type": "Feature", 
+      "properties": {
+        "Name": "Jessica Whu",
+        "Github": "<a href=\'https://github.com/jessdecimal\">jessdecimal</a>", 
+        "Affiliation": "<a href=\"https://vpl.ca\">Vancouver Public Library</a>",
+        "Location":"Vancouver, British Columbia"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -123.115606,
+         49.279795
+      ]
+     }
     }
   ]
 }
