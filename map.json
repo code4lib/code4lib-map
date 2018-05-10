@@ -261,6 +261,22 @@
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sarah Simpkin",
+        "Github": "<a href=\"https://github.com/ssimpkin\">ssimpkin</a>",
+        "Affiliation": "<a href=\"https://biblio.uottawa.ca\">University of Ottawa</a>",
+        "Location": "Ottawa, Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.684195,
+          45.423212
+        ]
+      }
+    },
     {
       "type": "Feature", 
       "properties": {
