@@ -292,6 +292,22 @@
          49.279795
       ]
      }
+    },
+   {
+      "type": "Feature", 
+      "properties": {
+        "Name": "Jess Whyte",
+        "Github": "<a href=\"https://github.com/jesswhyte\">jesswhytr</a>", 
+        "Affiliation": "<a href=\"http://library.utoronto.ca\">University of Toronto Library</a>",
+        "Location":"Toronto, ON"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.3997,
+         43.6645
+      ]
+     }
     }
   ]
 }
