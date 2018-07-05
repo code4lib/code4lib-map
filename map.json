@@ -308,6 +308,24 @@
          43.6645
       ]
      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Andrew Gearhart",
+        "Twitter": "<a href=\"https://twitter.com/andrewgearhart\">andrewgearhart</a>",
+        "Github": "<a href=\"https://github.com/andrewgearhart\">andrewgearhart</a>",
+        "Website": "http://andrew.gearhart.org",
+        "Affiliation": "<a href=\"http://libraries.psu.edu\">The Pennsylvania State University</a>",
+        "Location":"State College, PA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.865893,
+            40.797733
+        ]
+      }
     }
   ]
 }
